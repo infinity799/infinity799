@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am graduated student with the keen interests in robotics . This is not my official github account but I use it for my front , back , left and right practise . 
+
 <!--
 **infinity799/infinity799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
